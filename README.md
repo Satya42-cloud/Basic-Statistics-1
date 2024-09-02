@@ -7,7 +7,7 @@ This project focuses on performing descriptive analytics, visualizing data distr
 ### Descriptive Analytics for Numerical Columns
 #### Objective: Compute and analyze basic statistical measures.
 #### Steps:
-Load the dataset using Python's pandas library.
-Identify numerical columns.
-Calculate mean, median, mode, and standard deviation.
-Interpret these statistics to understand data central tendencies and variability.
+1. Load the dataset using Python's pandas library.
+2. Identify numerical columns.
+3.Calculate mean, median, mode, and standard deviation.
+4. Interpret these statistics to understand data central tendencies and variability.
