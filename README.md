@@ -38,5 +38,5 @@ This project focuses on performing descriptive analytics, visualizing data distr
 - Apply one-hot encoding to categorical columns, creating binary columns for each category.
 - Display a portion of the transformed dataset.
 
-### Conclusion
+### Conclusion:
 Summarize key findings from the descriptive analytics and visualizations. Reflect on the importance of preprocessing steps like standardization and one-hot encoding in enhancing the quality and usability of data for analysis and machine learning.
